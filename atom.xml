@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nyar233.github.io</id>
+    <title>PEACE!</title>
+    <updated>2022-08-01T03:00:16.020Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nyar233.github.io"/>
+    <link rel="self" href="https://nyar233.github.io/atom.xml"/>
+    <subtitle>世界和平</subtitle>
+    <logo>https://nyar233.github.io/images/avatar.png</logo>
+    <icon>https://nyar233.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, PEACE!</rights>
+    <entry>
+        <title type="html"><![CDATA[Fluent Search - 可选择的Listary替代品]]></title>
+        <id>https://nyar233.github.io/post/fluentsearch/</id>
+        <link href="https://nyar233.github.io/post/fluentsearch/">
+        </link>
+        <updated>2022-08-01T01:27:10.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="使用-fluent-search你可以搜索正在运行的应用程序-浏览器标签-应用内容-文件等等">使用 Fluent Search，你可以搜索正在运行的应用程序、浏览器标签、应用内容、文件等等。</h2>
+<figure data-type="image" tabindex="1"><img src="https://pan.141888.xyz/d/tw/pic/dark%20fluentsearch.webp?sign=52a38633bb215852" alt="效果" loading="lazy"></figure>
+<h2 id="特性">特性</h2>
+<h3 id="进程搜索">进程搜索</h3>
+<p>进程搜索可以让你轻松地找到你电脑上的任何活动进程。<br>
+你可以通过搜索窗口的标题或进程的名称来找到它。<br>
+另外，Fluent Search可以对应用内的元素进行查找，如标签、按钮甚至是进程内的超链接，以便立即访问它们。</p>
+<h3 id="屏幕搜索">屏幕搜索</h3>
+<p>有些人发现使用鼠标会降低工作效率，特别是在编程等非常注重键盘的工作中。<br>
+如果你是这些人中的一员，Fluent Search为你提供了保障。屏幕搜索功能可以让你用键盘轻松控制你的电脑。</p>
+<h3 id="搜索标签">搜索标签</h3>
+<p>如上所述，流畅搜索在你的电脑中搜索各种资源，这包括但不限于文件、应用程序、进程、书签、历史结果等等。<br>
+为了帮助你轻松获得最相关的结果，Fluent Search 有一个叫做 &quot;搜索标签 &quot;的功能。<br>
+Fluent Search 中的每个结果都可能包含描述该结果的多个标签，使用这些标签，你可以轻松地过滤你的搜索，找到最相关的结果。</p>
+<h3 id="网络搜索">网络搜索</h3>
+<p>觉得需要立即在网络上进行内容搜索，而不需要打开浏览器并创建一个新的选项卡？<br>
+那就对了，使用 Fluent Search，你可以轻松地在你最喜欢的搜索引擎中搜索。</p>
+<h3 id="定制化">定制化</h3>
+<p>流利搜索是以现代设计为基础的，但最重要的是，它能够让你自定义。<br>
+你是极简主义风格的粉丝？你想在屏幕上获得尽可能多的信息？流利搜索为你提供了保障。你可以轻松地缩放搜索窗口，并根据你的需要改变其外观。</p>
+<h3 id="导航">导航</h3>
+<p>简洁性是流畅搜索非常重要的方面。<br>
+试图在提供丰富的搜索结果的同时保持简单，是 Fluent Search 一直面临的挑战。</p>
+]]></content>
+    </entry>
+</feed>
